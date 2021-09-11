@@ -65,4 +65,4 @@ border_ratio = 0.2
   
 The script is preconfigured to output a lovely Harry Potter quilt, why even change it?
   
-![Harry Potter Quilt] quilt.png??raw=true)
+![Harry Potter Quilt](quilt.png?raw=true)
